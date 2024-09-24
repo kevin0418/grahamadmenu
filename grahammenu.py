@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.write("## Sport Building Sale in :red[Carseldine] ")
+st.write("## Sport Building :red[Sale] ")  
+st.write ("### in Carseldine") 
 
 
 st.markdown(
@@ -19,24 +20,39 @@ st.markdown(
     Queensland Government Carseldine Urban Village project
   
 
-    - [Infornation Memorandom IM ](https://grahampdf3-xguyyke5hv8nvwhq3pxbwx.streamlit.app/)
-        
-    
-    - [Watch to video ](https://youtu.be/z31uqT19x5s)
-
-    
-    - [Brochure ](https://kevin-grahambrochure1.streamlit.app/)
+   
 """
 )     
 
+st.write("### Contact information ")
+st.write("**Yong Real Estate**")
+
 st.markdown(
 """    
-       Contact information  
-       Yong Real Estate
   
-     Sue Yi : 0412 317 386
+     Sue Yi : 0412 317 386\n
      Kevin OH : 0402 283 003
-    
-
 """
 )  
+with st.sidebar:
+     
+     
+     st.markdown(
+      """ 
+          **More Information**
+          
+      
+           - [Info.Memorandom (IM)](https://grahampdf3-xguyyke5hv8nvwhq3pxbwx.streamlit.app/)        
+    
+           - [Watch to video ](https://youtu.be/z31uqT19x5s)
+    
+           - [Brochure ](https://kevin-grahambrochure1.streamlit.app/)
+          
+                 
+    """
+    )
+     
+
+    
+
+
