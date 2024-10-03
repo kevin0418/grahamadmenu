@@ -47,6 +47,8 @@ with st.sidebar:
            - [Watch to video ](https://youtu.be/z31uqT19x5s)
     
            - [Brochure ](https://kevin-grahambrochure1.streamlit.app/)
+
+           - [Location Map ](https://kevinoh-grahammap.streamlit.app/)
           
                  
     """
