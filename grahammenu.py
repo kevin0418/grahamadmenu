@@ -7,16 +7,18 @@ st.write ("### in Carseldine")
 st.markdown(
 """
     
-    :blue[Prime Investment Opportunity] 
+    :blue[Prime Investment Opportunity]\n 
     Welcome to an exceptional investment opportunity in the heart of Carseldine
 
-    :blue[Loyalty Long-term Tenant]
+    :blue[Loyalty Long-term Tenant]\n
     Health Club since 2005, with a strong brand presence in the fitness industry
 
-    :blue[Secure Income Stream]
-    ensures a stable and growing income stream
+    :blue[Secure Income Stream]\n
+    Yearly rental income : 1mil
+    ensures a stable and growing income stream, 2030 1.35mil
 
-    :blue[Future Development]
+ 
+    :blue[Future Development]\n
     Queensland Government Carseldine Urban Village project
   
 
@@ -25,13 +27,13 @@ st.markdown(
 )     
 
 st.write("### Contact information ")
-st.write("**Yong Real Estate**")
+st.write("**Yong Real Estate**","      click below for details")
 
 st.markdown(
 """    
   
-     Sue Yi : 0412 317 386\n
-     Kevin OH : 0402 283 003
+    [Sue Yi         : 0412 317 386](https://www.yong.com.au/Sue-Ye/)\n
+    [Kevin  Oh      : 0402 283 003](https://www.yong.com.au/Kevin-Oh/) 
 """
 )  
 with st.sidebar:
