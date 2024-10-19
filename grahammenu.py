@@ -51,7 +51,9 @@ with st.sidebar:
            - [Brochure ](https://kevin-grahambrochure1.streamlit.app/)
 
            - [Location Map ](https://kevinoh-grahammap.streamlit.app/)
-          
+
+           - [Expression of Interest EOI](https://drive.google.com/file/d/1_EO9zTIYoVegcRcGaDNDAHckHiPng7pM/view?usp=drive_link)
+         
                  
     """
     )
