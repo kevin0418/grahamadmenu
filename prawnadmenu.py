@@ -45,8 +45,12 @@ with st.sidebar:
            - [Watch to video ](https://youtu.be/EZ4SLXaQLx0)
     
            - [Brochure ](https://kevinoh-prawnfarmbrochure.streamlit.app/)
+           
+           - [Production Step ](https://kevinoh0418-prawnstep.streamlit.app/)
 
            - [Location ](https://kevinoh-prawnmap.streamlit.app/)
+
+           - [Expression of Interest EOI](https://drive.google.com/file/d/1_EO9zTIYoVegcRcGaDNDAHckHiPng7pM/view?usp=drive_link)
           
                  
            
